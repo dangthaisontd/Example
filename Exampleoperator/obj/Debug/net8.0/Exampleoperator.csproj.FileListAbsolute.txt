@@ -1,0 +1,15 @@
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\bin\Debug\net8.0\Exampleoperator.exe
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\bin\Debug\net8.0\Exampleoperator.deps.json
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\bin\Debug\net8.0\Exampleoperator.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\bin\Debug\net8.0\Exampleoperator.dll
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\bin\Debug\net8.0\Exampleoperator.pdb
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\Exampleoperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\Exampleoperator.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\Exampleoperator.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\Exampleoperator.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\Exampleoperator.sourcelink.json
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\Exampleoperator.dll
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\refint\Exampleoperator.dll
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\Exampleoperator.pdb
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\Exampleoperator.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\Example\Exampleoperator\obj\Debug\net8.0\ref\Exampleoperator.dll
