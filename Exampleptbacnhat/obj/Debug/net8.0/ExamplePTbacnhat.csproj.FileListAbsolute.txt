@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\bin\Debug\net8.0\ExamplePTbacnhat.exe
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\bin\Debug\net8.0\ExamplePTbacnhat.deps.json
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\bin\Debug\net8.0\ExamplePTbacnhat.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\bin\Debug\net8.0\ExamplePTbacnhat.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\bin\Debug\net8.0\ExamplePTbacnhat.pdb
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\ExamplePTbacnhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\ExamplePTbacnhat.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\ExamplePTbacnhat.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\ExamplePTbacnhat.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\ExamplePTbacnhat.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\refint\ExamplePTbacnhat.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\ExamplePTbacnhat.pdb
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\ExamplePTbacnhat.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePTbacnhat\obj\Debug\net8.0\ref\ExamplePTbacnhat.dll

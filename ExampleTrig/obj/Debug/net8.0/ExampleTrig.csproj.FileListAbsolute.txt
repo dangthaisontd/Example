@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\ExampleTrig.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\ExampleTrig.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\ExampleTrig.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\ExampleTrig.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\bin\Debug\net8.0\ExampleTrig.exe
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\bin\Debug\net8.0\ExampleTrig.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\bin\Debug\net8.0\ExampleTrig.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\bin\Debug\net8.0\ExampleTrig.dll
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\bin\Debug\net8.0\ExampleTrig.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\ExampleTrig.dll
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\refint\ExampleTrig.dll
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\ExampleTrig.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\ExampleTrig.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleTrig\obj\Debug\net8.0\ref\ExampleTrig.dll

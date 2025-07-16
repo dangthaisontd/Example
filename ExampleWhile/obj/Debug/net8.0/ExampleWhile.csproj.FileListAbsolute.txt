@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\bin\Debug\net8.0\ExampleWhile.exe
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\bin\Debug\net8.0\ExampleWhile.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\bin\Debug\net8.0\ExampleWhile.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\bin\Debug\net8.0\ExampleWhile.dll
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\bin\Debug\net8.0\ExampleWhile.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\ExampleWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\ExampleWhile.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\ExampleWhile.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\ExampleWhile.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\ExampleWhile.dll
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\refint\ExampleWhile.dll
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\ExampleWhile.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\ExampleWhile.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleWhile\obj\Debug\net8.0\ref\ExampleWhile.dll

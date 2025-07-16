@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleStart\bin\Debug\net8.0\ExampleStart.exe
+D:\BAITAP\BAITAPCSHAP\ExampleStart\bin\Debug\net8.0\ExampleStart.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleStart\bin\Debug\net8.0\ExampleStart.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleStart\bin\Debug\net8.0\ExampleStart.dll
+D:\BAITAP\BAITAPCSHAP\ExampleStart\bin\Debug\net8.0\ExampleStart.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\ExampleStart.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\ExampleStart.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\ExampleStart.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\ExampleStart.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\ExampleStart.dll
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\refint\ExampleStart.dll
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\ExampleStart.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\ExampleStart.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleStart\obj\Debug\net8.0\ref\ExampleStart.dll

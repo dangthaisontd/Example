@@ -1,0 +1,15 @@
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\bin\Debug\net8.0\Exampleswitcase.exe
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\bin\Debug\net8.0\Exampleswitcase.deps.json
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\bin\Debug\net8.0\Exampleswitcase.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\bin\Debug\net8.0\Exampleswitcase.dll
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\bin\Debug\net8.0\Exampleswitcase.pdb
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\Exampleswitcase.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\Exampleswitcase.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\Exampleswitcase.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\Exampleswitcase.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\Exampleswitcase.sourcelink.json
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\Exampleswitcase.dll
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\refint\Exampleswitcase.dll
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\Exampleswitcase.pdb
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\Exampleswitcase.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\Example\Exampleswitcase\obj\Debug\net8.0\ref\Exampleswitcase.dll
