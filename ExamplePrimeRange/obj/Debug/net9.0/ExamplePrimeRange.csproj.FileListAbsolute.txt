@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\bin\Debug\net9.0\ExamplePrimeRange.exe
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\bin\Debug\net9.0\ExamplePrimeRange.deps.json
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\bin\Debug\net9.0\ExamplePrimeRange.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\bin\Debug\net9.0\ExamplePrimeRange.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\bin\Debug\net9.0\ExamplePrimeRange.pdb
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\ExamplePrimeRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\ExamplePrimeRange.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\ExamplePrimeRange.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\ExamplePrimeRange.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\ExamplePrimeRange.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\refint\ExamplePrimeRange.dll
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\ExamplePrimeRange.pdb
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\ExamplePrimeRange.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExamplePrimeRange\obj\Debug\net9.0\ref\ExamplePrimeRange.dll

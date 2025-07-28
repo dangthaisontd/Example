@@ -1,0 +1,14 @@
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\bin\Debug\net9.0\ExampleSumArray.exe
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\bin\Debug\net9.0\ExampleSumArray.deps.json
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\bin\Debug\net9.0\ExampleSumArray.runtimeconfig.json
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\bin\Debug\net9.0\ExampleSumArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\bin\Debug\net9.0\ExampleSumArray.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\ExampleSumArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\ExampleSumArray.AssemblyInfoInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\ExampleSumArray.AssemblyInfo.cs
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\ExampleSumArray.csproj.CoreCompileInputs.cache
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\ExampleSumArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\refint\ExampleSumArray.dll
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\ExampleSumArray.pdb
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\ExampleSumArray.genruntimeconfig.cache
+D:\BAITAP\BAITAPCSHAP\ExampleSumArray\obj\Debug\net9.0\ref\ExampleSumArray.dll
